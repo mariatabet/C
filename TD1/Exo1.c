@@ -21,4 +21,3 @@ int main() {
     printf("resultat=%f\n", resultat);
     return 0;
 }
-
