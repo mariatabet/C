@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int mainl() {
     double x = 408855776;
     double y = 708158977;
     double nb1, nb2, nb3, resultat;
